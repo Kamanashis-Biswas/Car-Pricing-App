@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kamanashis.biswas.mybuttondemo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/car"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/car"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity78_kia_1500plus"></activity>
+        <activity android:name=".Activity77_kia_1500cc" />
+        <activity android:name=".Activity76_kia_1300cc" />
+        <activity android:name=".Activity75_kia_1000_cc" />
+        <activity android:name=".Activity74_mitsubishi1500pluscc" />
+        <activity android:name=".Activity73_mitsubishi_1500cc" />
+        <activity android:name=".Activity72_mitsubishi_1300cc" />
+        <activity android:name=".Activity71_mitsubishi_1000cc" />
+        <activity android:name=".Activity70_defaukt_cc1500plus" />
+        <activity android:name=".Activity69_default_cc1500" />
+        <activity android:name=".Activity68_default_cc1300" />
+        <activity android:name=".Activity67_default_cc1000" />
+        <activity android:name=".Activity66_hundai_1500pluscc" />
+        <activity android:name=".Activity65_hundai_1500cc" />
+        <activity android:name=".Activity64_hundai_1300cc" />
+        <activity android:name=".Activity63_hyundai_1000cc" />
+        <activity android:name=".Activity62_bmw_1500pluscc" />
+        <activity android:name=".Activity61_bmw_1500cc" />
+        <activity android:name=".Activity60_bmw_1300cc" />
+        <activity android:name=".Activity59_bmw_1000cc" />
+        <activity android:name=".Activity58_tata_1500pluscc" />
+        <activity android:name=".Activity57_tata_1300cc" />
+        <activity android:name=".Activity56_tata_1500cc" />
+        <activity android:name=".Activity55_tata_1000cc" />
+        <activity android:name=".Activity54_honda_1500pluscc" />
+        <activity android:name=".Activity53_honda_1500cc" />
+        <activity android:name=".Activity52_honada_1300cc" />
+        <activity android:name=".Activity51_honda_1000cc" />
+        <activity android:name=".Activity50_maruti_15000cc" />
+        <activity android:name=".Activity49_maruti_1500cc" />
+        <activity android:name=".Activity48_maruti_1300cc" />
+        <activity android:name=".Activity47_maruti_1000cc" />
+        <activity android:name=".Activity46_toyota_1500pluscc" />
+        <activity android:name=".Activity45_toyota_1500_cc" />
+        <activity android:name=".Activity44_toyota_1300cc" />
+        <activity android:name=".Activity43_toyota_1000cc" />
+        <activity android:name=".Activity42_porsche_cc" />
+        <activity android:name=".Activity41_audi_cc" />
+        <activity android:name=".Activity40_mercedes_benz_cc" />
+        <activity android:name=".Activity39_bmw_cc" />
+        <activity android:name=".Activity38_range_rover_cc" />
+        <activity android:name=".Activity37_lexus_cc" />
+        <activity android:name=".Activity36_tata_cc" />
+        <activity android:name=".Activity35_ford_cc" />
+        <activity android:name=".Activity34_kia_cc" />
+        <activity android:name=".Activity33_hyundai_cc" />
+        <activity android:name=".Activity32_honda_cc" />
+        <activity android:name=".Activity31_mitsubishi_cc" />
+        <activity android:name=".Activity30_Maruti_cc" />
+        <activity android:name=".Activity29_tuyota_cc" />
+        <activity android:name=".Activity25_definition_of_tata" />
+        <activity android:name=".Activity23_definition_of_kia" />
+        <activity android:name=".Activity22_definition_of_hyundai" />
+        <activity android:name=".Activity21_definition_of_mitsubishi" />
+        <activity android:name=".Activity20_definition_of_Maruti" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Activity16_definition_of_bmw" />
+        <activity android:name=".Activity15_definition_of_honda" />
+        <activity android:name=".Activity14_definition_of_toyota" />
+        <activity android:name=".Activity13_1c" />
+        <activity android:name=".Activity12_80m_1c" />
+        <activity android:name=".Activity11_50_80m" />
+        <activity android:name=".Activity10_35_50m" />
+        <activity android:name=".Activity9_25_35m" />
+        <activity android:name=".Activity8_15_25m" />
+        <activity android:name=".Activity7_5_15M" />
+        <activity android:name=".Activity6_cc_way" />
+        <activity android:name=".Activity5_brand_way" />
+        <activity android:name=".Activity4_budget_way" />
+        <activity android:name=".Activity3_default_way" />
+        <activity
+            android:name=".Activity2_login"
+            android:screenOrientation="sensor" />
+        <activity android:name=".Activity18_splash_screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

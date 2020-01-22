@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#E7305C"
+    android:padding="40dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity39_bmw_cc">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#d5f3f4"
+        android:text="@string/textView4"
+        />
+
+    <Button
+        android:id="@+id/btn_bm1000c"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:text="1000 CC" />
+
+    <Button
+        android:id="@+id/btn_bm1001_bm1300c"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:text="1001 - 1300" />
+
+    <Button
+        android:id="@+id/btn_bm1301_bm1500c"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:text="1301 - 1500" />
+
+    <Button
+
+        android:id="@+id/btn_bm1500c"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:text="1500++" />
+
+</LinearLayout>

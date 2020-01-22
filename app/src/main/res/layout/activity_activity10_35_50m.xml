@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E7305C"
+    android:padding="40dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Activity10_35_50m">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#d5f3f4"
+        android:text="@string/textView2"
+        />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <Button
+                android:id="@+id/btn_toyotaa4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="Toyota" />
+
+            <Button
+                android:id="@+id/btn_Maruti4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:padding="5dp"
+                android:text="Maruti" />
+
+            <Button
+                android:id="@+id/btn_mitsubishii4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:padding="5dp"
+                android:text="Mitsubishi" />
+
+            <Button
+                android:id="@+id/btn_hondaa4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:padding="5dp"
+                android:text="Honda" />
+            <Button
+                android:id="@+id/btn_hyundaii4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:padding="5dp"
+                android:text="Hyundai" />
+
+            <Button
+                android:id="@+id/btn_kiaa4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:padding="5dp"
+                android:text="KIA" />
+
+
+
+            <Button
+                android:id="@+id/btn_tataa4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:padding="5dp"
+                android:text="Tata" />
+
+
+
+            <Button
+                android:id="@+id/btn_bmww4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:padding="5dp"
+                android:text="BMW" />
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

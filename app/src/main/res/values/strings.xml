@@ -1,0 +1,792 @@
+<resources>
+    <string name="app_name">One Dream Project</string>
+    <string name="login_button_name">Login</string>
+    <string name="logout_button_name">Logout</string>
+    <string name="default_button_name">Default</string>
+    <string name="budget_button_name">Budget</string>
+    <string name="brand_button_name">Brnd</string>
+    <string name="cc_button_name">Logout</string>
+    <string name="textView">Select Your Budge</string>
+    <string name="textView2">Select Your Brand</string>
+    <string name="textView3">Welcome to CAR World </string>
+    <string name="textView4">Select your CC  </string>
+    <string name="textView5">Quality of Toyota </string>
+    <string name="textView6">Quality of Honda </string>
+    <string name="textView7">Quality of BMW </string>
+    <string name="textView8">Quality of Mercedes-Benz </string>
+    <string name="textView9">Quality of Audi </string>
+    <string name="textView10">Quality of Maruti </string>
+    <string name="textView11">Quality of Mitsubishi </string>
+    <string name="textView12">Quality of Hyundai </string>
+    <string name="textView13">Quality of KIA </string>
+    <string name="textView14">Quality of Ford </string>
+    <string name="textView15">Quality of Lexus </string>
+    <string name="textView16">Quality of Range Rover </string>
+    <string name="textView17">Quality of Porsche </string>
+    <string name="textView18">
+
+Toyota New Shape\n
+Model: 2011,2012,2013,2014\n
+Engine: VVT-I\n
+Horse power: 1000CC\n
+Transmission Gear: Auto\n
+Color: White\n
+Price: 8,20,000 Tk.
+
+
+    </string>
+
+    <string name="textView19">
+Manufacturer : Japan.\n
+Series : toyota vitzx .(Push Start,).\n
+Model : 2012,2013,2014\n
+Engine : VVT-I.\n
+Engine capacity : 1000 cc.\n
+Transmission : Auto with OD .\n
+Color :red.\n
+Fuel System : Octane.\n
+Price: 10,00,000 Tk\n
+    </string>
+
+    <string name="textView20">
+
+Engine Displ. : 1197 cc\n
+Transmission : Automatic\n
+ Fuel Type : Petrol\n
+ Boot Space : 339\n
+Power Windows : Front and Rear\n
+Airbags : Driver and Passenger\n
+ABS : Yes Central\n
+ Locking : Yes Fog\n
+Lamps : Front\n
+clour : black , blue , white\n
+    </string>
+
+    <string name="textView21">
+
+Mileage (ARAI)\n
+kmpl : 16 Kmpl to 23 Kmpl\n
+Gear Box : 5 Speed\n
+Fuel Type : Petrol / Diesel\n
+Transmission : Manual Length Width\n
+ Height : 4369*1695*1510\n
+Seating Capacity : 5\n
+Boot Space : 592-litres\n
+Power : 67.04bhp@3800rpm\n
+Torque : 170Nm@1800-2400rpm\n
+Engine Displacement : 1364 CC\n
+clour : black , white,classic gray , hermony brige,vermilion red.\n
+Price: 18,50,000 Tk\n
+    </string>
+
+    <string name="textView22">
+
+
+Specifications Summary of Yaris:\n
+Mileage (ARAI) kmpl : 17 Kmpl \n
+Gear Box : 7 Speed CVT \n
+Fuel Type : Petrol \n
+Transmission : Manual / Automatic\n
+ Length Width Height : 4425*1730*1495\n
+ Seating Capacity : 5 Rear \n
+Shoulder Room : 1275mm \n
+Boot Space : 476 Litres\n
+ Power : 105.5bhp@6000rpm \n
+Torque : 140Nm@4200rpm\n
+Engine Displacement : 1300 CC\n
+ Price. 9.29 - 14.07 lakh
+    </string>
+
+    <string name="textView23">
+
+
+Engine Model	:	1ZR-FE\n
+Engine Type	:	4 Cylinder In-Line\n
+Valve Mechanism	:	16-Valve, DOHC, With DUAL VVT-i\n
+Piston Displacement	:	1598  CC.\n
+Transmission Type	:	4-Speed Auto\n
+Front Suspension	:	McPherson Strut\n
+Tires	:	195/65R 15, Aluminum\n
+Price : 14,00,000 Tk\n
+    </string>
+
+    <string name="textView24">
+
+
+Engine Model	:	2NR-VE\n
+Engine Type	:	4 Cylinder In-Line\n
+Valve Mechanism	:	16-Valve, DOHC, With DUAL VVT-I\n
+Piston Displacement	:	1496  CC.\n
+CHASSIS
+Transmission Type	:	4-Speed Auto\n
+Front Suspension	:	McPherson Strut\n
+Rear Suspension	:	5-Link  (4-Link With Lateral Rod)\n
+Tires	:	185 / 65R 15 Alloy\n
+    </string>
+
+    <string name="textView25">
+
+    Skoda Octavia\n
+    Key Specifications of Skoda Octavia:\n
+    Fuel Type:PetrolEngine\n
+    Displacement: (cc)1400\n
+    Seating Capacity: 5\n
+    TransmissionType: Automatic\n
+    Boot Space (Litres): 590ers\n
+    Fuel Tank Capacity: 50\n
+    Body Type: Sedan\n
+    Price:19,00,000 TK\n
+</string>
+
+    <string name="textView26">
+    Fuel Type : Electric(Battery)\n
+Transmission Type : Manual\n
+Fuel : Tank Capacity\n
+Body Type : Hatch back \n
+Service Cost : (Avg. of 5 years)\n
+Engine and Transmission : 2000cc\n
+No. of cylinder : 4\n
+Valves Per Cylinder : 4\n
+TransmissionType : Manual\n
+clour : black , blue\n
+Price : 19,50,000 Tk
+    </string>
+
+    <string name="textView27">
+
+prize :15 - 25 Lakh\n
+Specifications Summary of Baleno\n
+Fuel Type : Petrol / Diesel \n
+Transmission : Manual / Automatic\n
+ Seating Capacity : 5 \n
+Boot Space : 339-litres \n
+Power : 83.1bhp@6000rpm\n
+ Torque : 115Nm@4000rpm \n
+Engine Displacement : 1197 CC\n
+clour :black,white,grey,red,blue\n
+    </string>
+
+
+    <string name="textView28">
+
+Specifications Summary of Swift :\n
+Gear Box : 5\n
+ Fuel Type : Petrol / Diesel\n
+Transmission : Automatic / Manual\n
+Seating Capacity : 5 Rear\n
+ Shoulder Room : 1265mm\n
+Boot Space : 268 Ground\n
+Clearance (Unladen) : 163mm\n
+ Engine Displacement : 1248 CC \n
+Power : 74bhp@4000rpm\n
+Torque : 190Nm@2000rpm\n
+Fuel Capacity : 37 Liters\n
+Minimum Turning Radius : 4.8 Meters\n
+    </string>
+
+    <string name="textView29">
+
+ARAI Mileage : 24.3 kmpl\n
+City Mileage : 21.7 kmpl\n
+Fuel Type : Diesel\n
+Engine Displacement : (cc)1248\n
+Seating Capacity : 5\n
+TransmissionType : Automatic\n
+Boot Space (Litres) : 328\n
+Fuel Tank Capacity : 48\n
+Body Type : SUV\n
+Service Cost : (Avg. of 5 years)\n
+    </string>
+
+    <string name="textView30">
+
+Key Specifications of Maruti Dzire\n
+ARAI Mileage : 28.4 kmpl\n
+Fuel Type : Diesel\n
+Engine Displacement : (cc)1248\n
+Seating Capacity: 5\n
+TransmissionType : Automatic\n
+Boot Space (Litres) : 378\n
+Fuel Tank Capacity: 37\n
+Body Type : Sedan\n
+19 lakhs\n
+    </string>
+
+    <string name="textView31">
+
+Mileage : 19.34 kmpl\n
+Engine Displ. : 1462 cc\n
+Transmission : Manual \n
+Fuel Type : Petrol\n
+Boot Space : 209 litres\n
+Power Windows : Front and Rear\n
+ Airbags : Driver and Passenger\n
+ABS : Yes \n
+Central Locking : Yes \n
+Fog Lamps : Front\n
+    </string>
+
+    <string name="textView32">
+
+
+Gear Box : 5
+Speed Fuel Type : Petrol / CNG
+Seating Capacity : 5
+ Boot Space : 341 Litres
+ Engine Displacement :1197 CC
+Power : 81.80bhp@6000rpm
+Torque : 113Nm@4200rpm
+Fuel Capacity : 32 Liters
+ Minimum Turning Radius : 4.7 metres
+    </string>
+
+    <string name="textView33">
+
+Mileage : 21.1 kmpl \n
+Engine Displ. : 998 cc\n 
+Transmission : Manual\n
+ Fuel Type : Petrol \n
+Boot Space : NA \n
+Central Locking : Yes \n
+Fog Lamps : Front\n </string>
+
+    <string name="textView34">
+
+ARAI Mileage : 26.82 kmpl\n
+Fuel Type : Diesel \n
+Engine Displacement : (cc)1498\n
+TransmissionType : Manual\n
+Boot Space (Litres) : 510\n
+Fuel Tank Capacity : 43\n
+Body Type : Sedan </string>
+
+    <string name="textView35">
+
+City Mileage ": 19.16 kmpl\n
+Fuel Type : Diesel\n
+Engine Displacement : (cc)1248\n
+Seating Capacity : 5\n
+TransmissionType : Manual\n
+Boot Space (Litres): 353\n
+Fuel Tank Capacity : 48\n
+Body Type : SUV\n
+</string>
+
+    <string name="textView36">
+   Engine Type In-Line 4-Cylinder\n
+Displacement 1000 cc\n
+Horsepower (SAE net)158 / 6500 rpm\n
+Torque (SAE net)138 lb-ft / 4200 rpm\n
+Redline	6700 rpm\n
+Bore and Stroke	86.0 mm/85.9 mm\n
+Compression Ratio 10.8:1\n
+Valve Train 16-Valve DOHC i-VTEC\n
+Fuel Injection	Multi-Point\n
+
+    </string>
+    <string name="textView37">
+
+Engineering back to top\n
+Displacement 1098 cc\n
+Compression Ratio 13.5 :1\n
+Valve Train 16-Valve DOHC i-VTEC\n
+Total System Horsepower1151\n
+Lithium-Ion Battery\n
+Eco Assist™ System\n
+Active Noise Cancellation™ (ANC)\n
+Hill Start Assist\n
+Immobilizer System\n
+
+    </string>
+
+    <string name="textView38">
+
+ARAI Mileage : 16.5 kmpl\n
+City Mileage :13.9 kmpl\n
+Fuel Type : Petrol\n
+Engine Displacement (cc):1198\n
+Seating Capacity : 5\n
+TransmissionType : Automatic\n
+Boot Space (Litres): 175\n
+Fuel Tank Capacity: 35\n
+Body Type : Hatchback\n
+
+    </string>
+
+    <string name="textView39">
+
+ARAI Mileage : 21.9 kmpl\n
+Fuel Type : Diesel \n
+Engine Displacement  : (cc)1098\n
+Seating Capacity : 7\n
+TransmissionType : Manual\n
+Boot Space  : (Litres) 223\n
+Fuel Tank Capacity : 42 \n
+Body Type : SUV\n
+
+
+    </string>
+    <string name="textView40">
+
+TransmissionEarth Dreams CVT (A)\n
+Drive Typem : Front-wheel drive\n
+Wheelbase : 2,610 mm\n
+Min Turning Radius : 5,300 mm\n
+Kerb Weigh ; t1,200 kg\n
+Fuel Tank Capacity ; 40 L\n
+Cargo/Boot Capacity : unknown\n
+Brakes (Front)Ventilated disc\n
+Brakes (Rear)Disc\n
+    </string>
+
+    <string name="textView41">
+
+ARAI Mileage : 23.8 kmpl\n
+City Mileage : 19.68 kmpl\n
+ Fuel Type : Diesel\n
+Engine Displacement:(cc)1498\n
+Transmission Type:Automatic\n
+Boot Space (Litres):420ers\n
+Fuel Tank Capacity:35\n
+Body Type : Sedan\n
+    </string>
+
+    <string name="textView42">
+
+ARAI Mileage : 18.0 kmpl\n
+City Mileage : 11.22 kmpl\n
+Fuel Type : Petrol\n
+Engine Displacement:(cc)1497\n
+Seating Capacity: 5\n
+TransmissionType:Automatic\n
+Boot Space (Litres):510Fuel \n
+Tank Capacity : 40\n
+Body Type : Sedan\n
+
+    </string>
+
+    <string name="textView43">
+
+ARAI Mileage : 25.5 kmpl\n
+City Mileage : 15.35 kmpl\n
+Fuel Type : Diesel\n
+Engine Displacement(cc):1498\n
+Seating Capacity : 5\n
+TransmissionType : Manual\n
+Boot Space (Litres) : 363\n
+Fuel Tank Capacity: 40\n
+Body Type : Hatchback\n
+    </string>
+
+    <string name="textView44">
+
+
+Engine Capacity : 1,996 cc\n
+Compression Ratio9.8\n
+Fuel Type: Petrol\n
+Power228kW (306 bhp)\n
+Torque400 Nm\n
+Top Speed270 km/h\n
+TypeSports\n
+    </string>
+
+    <string name="textView45">
+
+Dimensions\n
+Vehicle\n
+Weight Information\n
+Base Curb Weight (lbs)4024\n
+Interior Dimensions\n
+Front Shoulder Room (in)59.7\n
+Front Hip Room (in)55.8\n
+Front Leg Room (in)42.2\n
+    </string>
+
+    <string name="textView46">
+
+Displacement (CC):1000 CC\n
+No Of Cylinde : 4\n
+Drive Train : AWD\n
+Central Locking\n
+Child Safety Lock\n
+Rain Sensing Wipers\n
+Headlamp Beam Adjuste\n
+Comfort , Convenience:\n
+-Air Conditioner\n
+Cruise Control\n
+Power Outlets 12V\n
+    </string>
+
+    <string name="textView47">
+
+ARAI Mileage:14.5 kmpl\n
+City Mileage :10.2 kmpl\n
+Fuel Type : Diesel\n
+Engine Displacement : (cc)1000\n
+Seating Capacity : 7\n
+TransmissionType : Automatic\n
+Fuel Tank Capacity : 65\n
+Body Type : MUV
+clour : red , white ,  dark black\n
+    </string>
+
+    <string name="textView48">
+
+ARAI Mileage:17.6 kmpl\n
+City Mileage:9.12 kmpl\n
+Fuel Type:Diesel \n
+Seating Capacity: 7\n
+TransmissionType: Manual\n
+Boot Space : (Litres)128Fuel \n
+Tank Capacity : 60\n
+BodyType: MUV\n
+clour : white, grey , red\n
+    </string>
+
+    <string name="textView49">
+    Mileage (ARAI) kmpl : 17 Kmpl\n
+Gear Box:6 Speed \n
+Fuel Type:Diesel \n
+Transmission:Manual/Automatic \n
+Boot Space:128-litres\n
+Ground Clearance (Laden):200mm\n
+ Ground Clearance (Unladen):200mm \n
+Engine Displacement:1700 CC \n
+Power : 153.86bhp@4000\n
+Torque :400Nm@1750-2500rpmn\
+clour :white,green,red \n
+    </string>
+
+    <string name="textView50">
+
+Mileage	: 13.95 kmpl\n
+Engine	: 2179 cc\n
+Mileage (ARAI) kmpl : 14\n
+ Kmpl Gear Box : 5 \n
+Speed Fuel Type : Diesel\n
+Seating Capacity : 7 \n
+Boot Space : 981-litres\n
+Ground Clearance (Laden) : 200mm\n
+Ground Clearance (Unladen) : 200 mm \n
+Engine Displacement : 21955 CC\
+    </string>
+
+    <string name="textView51">
+
+Mileage (ARAI) kmpl:17Kmpl to 22Kmpl \n
+Gear Box : 5 Speed \n
+Fuel Type : Petrol / Diesel \n
+Transmission : Manual / Automatic \n
+Length Width Height : 3995*1706*1570 \n
+Seating Capacity : 5 \n
+Boot Space : 390-litres\n
+ Power : 88.7bhp@4000rpm \n
+Torque : 200Nm@1750-3000rpm \n
+Engine Displacement:1248 CC\n
+clour:white,black\n
+    </string>
+
+    <string name="textView52">
+    Fuel Type : Electric(Battery)\n
+Transmission Type : Manual\n
+Fuel : Tank Capacity\n
+Body Type : Hatch back \n
+Service Cost : (Avg. of 5 years)\n
+Engine and Transmission : 2000cc\n
+No. of cylinder : 4\n
+Valves Per Cylinder : 4\n
+TransmissionType : Manual\n
+clour : black , blue\n
+
+    </string>
+
+    <string name="textView53">
+
+45 lakhs\n
+Key Specifications of Tata H2X\n
+Fuel Type : Petrol\n
+Max Power: (bhp@rpm)85bhp\n
+Max Torque : (nm@rpm)114Nm\n
+Transmission Type : Manual\n
+Fuel : Tank Capacity\n
+Body Type : SUV\n
+Engine and Transmission : 1300cc\n
+Engine Type : 1.2 litre\n
+Revotron petrol\n
+    </string>
+
+    <string name="textView54">
+
+Key Specifications of Tata Indica eV2\n
+ARAI Mileage :16.84 kmpl\n
+City Mileage :13.42 kmpl\n
+Fuel Type : Petrol\n
+Engine Displacement :(cc)1393\n
+Max Power : (bhp@rpm)64.4bhp@5000rpm\n
+Max Torque : (nm@rpm)99.8Nm@2700rpm\n
+Seating Capacity : 5\n
+TransmissionType : Manual\n
+Boot Space (Litres) : 217reFuel Tank\n
+Capacity : 37\n
+    </string>
+
+    <string name="textView55">
+    Fuel Type : Electric(Battery)\n
+Transmission Type : Manual\n
+Fuel : Tank Capacity\n
+Body Type : Hatch back \n
+Service Cost : (Avg. of 5 years)\n
+Engine and Transmission : 2000cc\n
+No. of cylinder : 4\n
+Valves Per Cylinder : 4\n
+TransmissionType : Manual\n
+clour : black , blue\n
+
+    </string>
+
+    <string name="textView56">
+
+Fuel Type : Petrol\n
+Max Power: (bhp@rpm)85bhp\n
+Max Torque : (nm@rpm)114Nm\n
+Transmission Type : Manual\n
+Fuel : Tank Capacity \n
+Body Type : SUV\n
+Engine and Transmission : 2400cc\n
+Engine Type : 1.2 litre \n
+Revotron petrol \n
+    </string>
+
+    <string name="textView57">
+
+ARAI Mileage :16.84 kmpl\n
+City Mileage :13.42 kmpl\n
+Fuel Type : Petrol\n
+Engine Displacement :(cc)1193\n
+Seating Capacity : 5\n
+TransmissionType : Manual\n
+Boot Space (Litres) : 217reFuel Tank\n
+Capacity : 37\n
+    </string>
+
+    <string name="textView58">
+    BMW 3\n
+ARAI Mileage : 15.34 kmpl\n
+City Mileage :12.5 kmpl\n
+Fuel Type : Petrol\n
+Engine Displacement : (cc)1998\n
+Seating Capacity : 5\n
+TransmissionType : Automatic\n
+Boot Space (Litres) : 480\n
+Fuel Tank Capacity : 60\n
+Body Type : Sedan\n
+    </string>
+    <string name="textView59">
+    Power137kW (184 bhp)\n
+Torque350 Nm\n
+Wheelbase2,968 mm\n
+Min Turning Radius\n
+Kerb Weight1,615 kg\n
+Fuel Tank Capacity68 L\n
+Cargo/Boot Capacity530 L\n
+Brakes (Front)Ventilated disc\n
+Brakes (Rear)Ventilated disc\n
+Suspension (Front)Double-wishbone\n
+Suspension (Rear)Aluminium integral\n
+    </string>
+
+    <string name="textView60">
+    BMW 7 Series\n
+ARAI Mileage : 7.46 kmpl\n
+Fuel Type :Petrol\n
+Engine Displacement :(cc)6592\n
+Max Power :(bhp@rpm)600.77bhp@6500rpm\n
+Max Torque : (nm@rpm)800Nm@5000rpm\n
+Seating Capacity : 5 \n
+TransmissionType : Automatic\n
+Boot Space (Litres) : 515 re\n
+Fuel Tank Capacity : 78\n
+Body Type : Sedan\n
+clour:white,black,red,speace grey\n
+    </string>
+
+    <string name="textView61">
+    Key Specifications of BMW X4\n
+ARAI Mileage:14.71 kmpl\n
+Fuel Type : Diesel Engine\n
+Displacement:  (cc)2993\n
+TransmissionType : Automatic\n
+Body Type: SUV\n
+    </string>
+
+    <string name="textView62">
+    BMW X5 2014-2019\n
+Key Specifications of BMW X5 2014-2019\n
+ARAI Mileage : 15.97 kmpl\n
+City Mileage : 11.9 kmpl\n
+Fuel Type : Diesel\n
+Engine Displacement : (cc)2993\n
+TransmissionType : Automatic\n
+Boot Space (Litres) : 650\n
+Fuel Tank Capacity: 85\n
+Body Type : SUV\n
+    </string>
+
+    <string name="textView63">
+    Seating Capacity : 5\n
+Doors: 5\n
+Body Type :SUV\n
+Engine\n
+Cylinder Configuration : In-line\n
+Cylinders: 4\n
+Valves Per Cylinder: 4\n
+Displacement :1096 cc\n
+Power: 90\n
+Torque: 220\n
+Engine Location Front, Transverse\n
+Fuel System Injection\n
+Fuel Type Diesel\n
+City Mileage :21.38 km/litre\n
+    </string>
+
+    <string name="textView64">
+    Gear Box : 6 Speed\n
+Fuel Type : Petrol / Diesel\n
+Transmission : Manual / Automatic\n
+Length Width Height : 3985*1734*1505\n
+Seating Capacity : 5\n
+Rear Shoulder Room : 1280\n
+mm Boot Space : 285-litres\n
+Power : 88.76bhp@4000\n
+ Engine Displacement : 1197 CC
+
+    </string>
+
+    <string name="textView65">
+ARAI Mileage:18.15 kmpl\n
+Fuel Type:Petrol\n
+Engine Displacement : (cc)998\n
+Max Power : (bhp@rpm)118bhp@6000rpm\n
+Max Torque:  (nm@rpm)172 Nm\n
+Seating Capacity: 5\n
+TransmissionType: Automatic\n
+Boot Space (Litres)350\n
+    </string>
+
+    <string name="textView66">
+
+ARAI Mileage:24.0 kmpl\n
+City Mileage:19.1 kmpl\n
+Fuel Type:DieselEngine\n
+Displacement:(cc)1186\n
+Seating Capacity:5\n
+TransmissionType:Manual\n
+Boot Space (Litres):256ers\n
+Fuel Tank Capacity:43\n
+    </string>
+
+    <string name="textView67">
+    ARAI Mileage:30.48 km/kg\n
+Fuel Type:CNG\n
+Engine Displacement : (cc)1386
+Max Power:(bhp@rpm)58bhp@5500rpm
+Max Torque: (nm@rpm)84.33Nm@4500 rpm
+Seating Capacity:5
+TransmissionType:Manual\n
+Boot Space (Litres):235\n
+reFuel Tank Capacity:60\n
+    </string>
+
+    <string name="textView68">
+    ARAI Mileage:22.0 kmpl\n
+City Mileage:18.0 kmpl\n
+Fuel Type:DieselEngine\n
+Displacement : (cc)1382\n
+Seating Capacity:5\n
+TransmissionType:Automatic\n
+Boot Space (Litres):480 ers\
+    </string>
+
+    <string name="textView69">
+
+    Features\n
+1.6L I-4 Engine.\n
+130 @ 6,300 rpm Horsepower.\n
+119 @ 4,850 rpm Torque.\n
+15" steel Wheels.\n
+front air conditioning, manual.\n
+SiriusXM AM/FM/Satellite, seek-scan Radio.\n
+2 - 1st row LCD monitor.\n
+    </string>
+
+    <string name="textView70">
+    Engine and Transmission\n
+No. of cylinder:4\n
+Valves Per Cylinder:4\n
+TransmissionType:Manual\n
+Fuel  Performance\n
+Fuel Type:Petrol\n
+    </string>
+
+    <string name="textView71">
+    Specifications\n
+Mileage\n
+EPA Fuel Economy Est - Hwy:MP 33\n
+Cruising Range - City : mi 386.10\n
+EPA Fuel Economy Est - City : MPG27\n
+Fuel Economy Est-Combined : MPG30\n
+Cruising Range - Hwy:mi 471.90\n
+EPA MPG Equivalent-City :N/A\n
+EPA MPG Equivalent-Hwy :N/A\n
+EPA MPG Equivalent-Combined :N/A\n
+Battery Range : miN/A\n
+    </string>
+
+    <string name="textView72">
+    SPECIFICATION\n
+Engine Capacity. 1386 cc.\n
+Engine Configuration. 4-cylinder in-line.\n
+Compression Ratio. unknown.\n
+Bore x Stroke. (67.0 x 77.0) mm.\n
+Fuel Type. Petrol.\n
+performance.\n
+Power. 48kW (65 bhp)\n
+Torque. 96 Nm.\n
+    </string>
+
+    <string name="textView73">
+    SPECIFICATION\n
+Engine Capacity. 998 cc.\n
+Compression Ratio. unknown.\n
+Bore x Stroke. unknown.\n
+Fuel Type. Petrol.\n
+performance.\n
+Power. 88kW (118 bhp)\n
+Torque. 171 Nm.\n
+    </string>
+
+    <string name="textView74">
+    Preview\n
+181 hp @ 6000 rpm.\n
+Engine : 2.4L L4 DOHC 16-valve
+Power : 181 hp @ 6000 rpm
+Doors : 5
+Seats : 5
+    </string>
+
+    <string name="textView75">
+    Capacity (cc): 2,199\n
+Max Power (kW @ rpm):147 @ 3,800\n
+Bore x Stroke (mm)"85.4 x 96.0\n
+Compression Ratio:16.0 : 1\n
+TRANSMISSION:\n
+Grades Platinum 2.2L Diesel Automatic\n
+8 Speed Automatic (Sports-matic)\n
+    </string>
+
+    <string name="textView76"> </string>
+
+    <string name="textView77"> </string>
+
+
+</resources>
